@@ -32,3 +32,5 @@ Open chrome in virtualmachine
    Call Method    ${options}    add_experimental_option  useAutomationExtension  ${False}
    Create WebDriver    Chrome    chrome_options=${options}  #proxy=${proxy}
    Go To  ${START_URL}
+
+   ** This is exercise g5 ***
