@@ -1,0 +1,2 @@
+[0207/163014.816:ERROR:process_reader_win.cc(123)] NtOpenThread: {Pøístup byl odepøen} Proces požadoval pøístup k objektu, ale nebyla mu udìlena odpovídající pøístupová práva. (0xc0000022)
+[0207/163014.822:ERROR:exception_snapshot_win.cc(88)] thread ID 16780 not found in process
